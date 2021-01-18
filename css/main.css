@@ -108,14 +108,25 @@ textarea {
 
 @font-face {
   font-family: monospace;
-  src: url(fonts\Compagnon-Roman.woff);
+  src: url(fonts/Compagnon-Roman.woff);
 }
-
+.title{
+  text-align: center;
+  text-decoration: underline;
+}
+.subtitle{
+  text-align: center;
+  text-transform: uppercase;
+}
 .landing-page{
       height: 45em;
 }
-
-   h1 {
+h1{
+  font-size: 1.5em;
+  font-family: monospace;
+}
+   h3 {
+     font-family: monospace;
      font-size: 1em;
      color: black;
      text-transform: uppercase;
