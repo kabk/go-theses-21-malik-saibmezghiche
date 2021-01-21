@@ -121,14 +121,14 @@ textarea {
 
 .subtitletwo{
   position: absolute;
-  top: 90vh;
+  top: 80vh;
   width: 100vw;
   margin: auto;
   text-align: center;
   text-transform: uppercase;
 }
 .landing-page{
-      height: 100vh;
+      height: 90vh;
       text-align: center;
 }
 h1{
@@ -140,7 +140,7 @@ h1{
      font-size: 0.9em;
      color: black;
      text-transform: uppercase;
-     margin-top: 18vh;
+     margin-top: 12vh;
    }
 
    span {
