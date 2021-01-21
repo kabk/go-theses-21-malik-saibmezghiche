@@ -120,6 +120,7 @@ textarea {
 }
 .landing-page{
       height: 100vh;
+      text-align: center;
 }
 h1{
   font-size: 1.5em;
@@ -127,7 +128,7 @@ h1{
 }
    h3 {
      font-family: monospace;
-     font-size: 1em;
+     font-size: 0.9em;
      color: black;
      text-transform: uppercase;
    }
