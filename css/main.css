@@ -118,6 +118,15 @@ textarea {
   text-align: center;
   text-transform: uppercase;
 }
+
+.subtitletwo{
+  position: absolute;
+  top: 90vh;
+  width: 100vw;
+  margin: auto;
+  text-align: center;
+  text-transform: uppercase;
+}
 .landing-page{
       height: 100vh;
       text-align: center;
@@ -131,6 +140,7 @@ h1{
      font-size: 0.9em;
      color: black;
      text-transform: uppercase;
+     margin-top: 18vh;
    }
 
    span {
