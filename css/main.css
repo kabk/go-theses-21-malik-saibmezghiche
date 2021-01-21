@@ -155,10 +155,16 @@ h1{
    }
 
 .audio-playlist{
+  width: 100vw;
+  margin: auto;
   text-align: center;
 }
 
 #playlist{
+  width: 35vw;
+  margin: auto;
+  margin-top: 5vh;
+  margin-bottom: 10vh;
   list-style: none;
   text-align: left;
   text-transform: uppercase;
