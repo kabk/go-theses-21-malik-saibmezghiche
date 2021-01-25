@@ -176,6 +176,38 @@ h1{
 #playlist .current-song a {
   text-decoration: underline;
 }
+
+/* Style the button that is used to open and close the collapsible content */
+.collapsible {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 90vw;
+  margin: auto;
+  text-align: left;
+  font-size: 15px;
+  border-style: groove;
+}
+
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+.active, .collapsible:hover {
+  background-color: #ccc;
+}
+
+/* Style the collapsible content. Note: hidden by default */
+.biblicontent {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  text-align: left;
+  background-color: #f1f1f1;
+}
+
+.footer{
+  margin-bottom: 200px;
+  text-align: center;
+}
 /* ==========================================================================
    Helper classes
    ========================================================================== */
